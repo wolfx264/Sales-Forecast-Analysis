@@ -10,6 +10,3 @@ I have assigned myself the following questions:
   2. If we can, then what will be the forecasted sales be for each month of 2018?
   3. How will the forecasted sales of 2018 compare to 2017?
   4. By how much did sales increase for each year? How much are they forecasted to increase by the end of 2018?
-
-Data Forcasting Using SARIMA (Seasonal AutoRegressive Integrated Moving Average)
-
